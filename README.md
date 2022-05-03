@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-mauri-666726131/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonmauri/)
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmauri&show_icons=true&theme=tokyonight)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmauri&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmauri&layout=compact)](https://github.com/andersonmauri/github-readme-stats)
 
 ## Tecnologias do meu dia a dia. 🖥️
 
