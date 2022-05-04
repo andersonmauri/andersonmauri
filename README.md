@@ -1,4 +1,4 @@
-### Olá, eu sou o Anderson Mauri ✌️
+### Olá, é muito bom ter você por aqui, me chamo Anderson Mauri ✌️. Fique a vontade!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-mauri-666726131/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonmauri/)
 
