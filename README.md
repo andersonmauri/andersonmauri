@@ -19,7 +19,7 @@
 
   <img align="center" alt="REACT-NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
- <br/> Apaixonado por teconologia e em melhorar a vida das pessoas através dela!!  
+ <br/> Apaixonado por teconologia e em mudar a vida das pessoas através dela!!  
   Desenvolvedor mobile em formação 📱 em <img align="center" alt="REACT-NATIVE" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
    
 </div>
